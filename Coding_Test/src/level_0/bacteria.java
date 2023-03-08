@@ -1,4 +1,4 @@
-package lv_0_0306;
+package level_0;
 
 public class bacteria {
 //	¼¼±Õ Áõ½Ä

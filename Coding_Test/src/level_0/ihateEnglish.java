@@ -1,4 +1,4 @@
-package iHateEnglish;
+package level_0;
 
 //영어가 싫어요
 //문제 설명

@@ -1,4 +1,4 @@
-package doubleArray;
+package level_0;
 //배열 두배 만들기
 //문제 설명
 //정수 배열 numbers가 매개변수로 주어집니다. 

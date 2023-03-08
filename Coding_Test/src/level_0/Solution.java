@@ -1,4 +1,4 @@
-package count7;
+package level_0;
 //7의 개수
 
 //머쓱이는 행운의 숫자 7을 가장 좋아합니다. 
